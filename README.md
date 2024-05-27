@@ -48,6 +48,7 @@ This project is licensed under the CC BY-NC 4.0 LEGAL CODE Attribution-NonCommer
 
 ## Author
 
-- [Bilal Ahmad Khan aka BILRED
+- Bilal Ahmad Khan aka BILRED
 - https://github.com/BilalAhmadKhanKhattak
+- https://www.youtube.com/c/techambition
 
