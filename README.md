@@ -26,7 +26,7 @@ LinkxDoxer is a Python script designed to efficiently retrieve all links found d
 3. **Usage:**
     - Run the script using Python:
     ```
-    python LinkxDoxer.py
+    python LinkxDoxer_v1.1.py
     ```
     - Enter the website URL when prompted and press Enter.
 4. **Output:**
