@@ -10,7 +10,13 @@ LinkxDoxer is a Python script designed to efficiently retrieve all links found d
 - Customizable number of retries and delay between retries to handle network issues gracefully(Code Edit).
 - Provides detailed error messages for better troubleshooting.
 
-## Getting Started
+## New Features | Version LinkxDoxer 1.2:
+- Enhanced Link Extraction: Version 1.2 improves the accuracy and reliability of extracting all links from a webpage, ensuring no relevant links are missed.
+- Retry Mechanism: Includes a robust retry mechanism for handling network issues, making the tool more reliable even in unstable network conditions.
+- User-Friendly Save Option: Adds a convenient feature to save extracted links to a file with user confirmation and file existence check, preventing accidental overwrites.
+  
+
+### Getting Started
 
 1. **Installation:**
     - Clone this repository to your local machine.
