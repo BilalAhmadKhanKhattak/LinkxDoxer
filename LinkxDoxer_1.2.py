@@ -94,7 +94,7 @@ if __name__ == "__main__":
 
     # Ask user if they want to save the links to a file 
     while True:
-        save_to_file = input(Fore.LIGHTCYAN_EX + "Do you want to save to links to a file? (yes/no): ").strip().lower()
+        save_to_file = input(Fore.LIGHTCYAN_EX + "Do you want to save the links to a file? (yes/no): ").strip().lower()
         if save_to_file in {'yes', 'no', ''}:
             break
         print(Fore.RED + "Invalid Input. Please enter 'yes' or 'no'.")
