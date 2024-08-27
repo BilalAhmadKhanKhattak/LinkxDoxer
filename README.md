@@ -3,6 +3,7 @@
 # LinkxDoxer
 
 LinkxDoxer is a Python script designed to efficiently retrieve all links found directly under the webpage of a given URL. It is ideal for web developers, bug bounty hunters, and OSINT (Open-Source Intelligence) enthusiasts seeking to analyze links under a webpage and uncover valuable information(Expected In Ideal Cases)
+(Note: LinkxDoxer is a predecessor of a new tool created by Me, Called [LinkxDoctor](https://github.com/BilalAhmadKhanKhattak/LinkxDoctor), So I Suggest you to use that!)
 ## Features
 
 - Retrieves all links found directly under the webpage of a given URL.
